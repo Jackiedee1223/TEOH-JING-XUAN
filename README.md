@@ -3,23 +3,12 @@
 
 <h2>👨‍💻 Networking Projects:</h2>
 
-- <b>Campus Network Design & Implementation</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Hotel Management Network Design & Implementation</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Bank System Design & Implementation</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>[Campus Network Design & Implementation](https://github.com/Jackiedee1223/CampusNetwork/tree/main)</b>
+- <b>[Hotel Management Network Design & Implementation](https://github.com/Jackiedee1223/HMNetwork/tree/main)</b>
+- <b>[Bank System Design & Implementation](https://github.com/Jackiedee1223/Bank-Network/tree/main)</b>
 - <b>Hospital System Network Design & Implementation</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>VoIP Telephony System Network Design & Implementation</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Telecommunication Company Network Design & Implementation</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
 <h2> 🤳 Connect with me:</h2>
