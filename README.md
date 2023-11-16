@@ -7,7 +7,7 @@
 - <b>[Hotel Management Network Design & Implementation](https://github.com/Jackiedee1223/HMNetwork/tree/main)</b>
 - <b>[Bank System Design & Implementation](https://github.com/Jackiedee1223/Bank-Network/tree/main)</b>
 - <b>[Hospital System Network Design & Implementation](https://github.com/Jackiedee1223/HSNetwork)</b>
-- <b>[oIP Telephony System Network Design & Implementation](https://github.com/Jackiedee1223/VoIP_TSNetwork)</b>
+- <b>[VoIP Telephony System Network Design & Implementation](https://github.com/Jackiedee1223/VoIP_TSNetwork)</b>
 - <b>Telecommunication Company Network Design & Implementation</b>
 
 <h2>👨‍💻 DevOps Projects:</h2>
