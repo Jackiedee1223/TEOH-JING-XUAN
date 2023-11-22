@@ -12,12 +12,13 @@
 
 <h2>👨‍💻 DevOps Projects:</h2>
 
-- <b>[Campus Network Design & Implementation](https://github.com/Jackiedee1223/CampusNetwork/tree/main)</b>
-- <b>[Hotel Management Network Design & Implementation](https://github.com/Jackiedee1223/HMNetwork/tree/main)</b>
-- <b>[Bank System Design & Implementation](https://github.com/Jackiedee1223/Bank-Network/tree/main)</b>
-- <b>[Hospital System Network Design & Implementation](https://github.com/Jackiedee1223/HSNetwork)</b>
-- <b>VoIP Telephony System Network Design & Implementation</b>
-- <b>Telecommunication Company Network Design & Implementation</b>
+- <b>[Lift & Shift Web Application on AWS Cloud](https://github.com/Jackiedee1223/CampusNetwork/tree/main)</b>
+- <b>[Re-architecture Web Application on AWS Cloud](https://github.com/Jackiedee1223/HMNetwork/tree/main)</b>
+- <b>[Continuous Integration of on AWS Cloud](https://github.com/Jackiedee1223/Bank-Network/tree/main)</b>
+- <b>[AWS Security Implementations](https://github.com/Jackiedee1223/Bank-Network/tree/main)</b>
+- <b>[Continuous Delivery of on AWS Cloud](https://github.com/Jackiedee1223/HSNetwork)</b>
+- <b>CloudFormation to Setup Entire Cloud Stack</b>
+- <b>Terraform to Setup Cloud Stack</b>
 
 <h2> 🤳 Connect with me:</h2>
 
