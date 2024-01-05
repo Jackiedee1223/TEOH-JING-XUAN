@@ -12,7 +12,7 @@
 
 <h2>👨‍💻 DevOps Projects:</h2>
 
-- <b>[Lift & Shift Web Application on AWS Cloud](https://github.com/Jackiedee1223/CampusNetwork/tree/main)</b>
+- <b>[Lift & Shift Web Application on AWS Cloud](https://github.com/Jackiedee1223/CloudDevOps-1)</b>
 - <b>[Re-architecture Web Application on AWS Cloud](https://github.com/Jackiedee1223/HMNetwork/tree/main)</b>
 - <b>[Continuous Integration of on AWS Cloud](https://github.com/Jackiedee1223/Bank-Network/tree/main)</b>
 - <b>[AWS Security Implementations](https://github.com/Jackiedee1223/Bank-Network/tree/main)</b>
