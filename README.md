@@ -13,12 +13,10 @@
 <h2>👨‍💻 DevOps Projects:</h2>
 
 - <b>[Lift & Shift Web Application on AWS Cloud](https://github.com/Jackiedee1223/CloudDevOps-1)</b>
-- <b>[Re-architecture Web Application on AWS Cloud](https://github.com/Jackiedee1223/HMNetwork/tree/main)</b>
-- <b>[Continuous Integration of on AWS Cloud](https://github.com/Jackiedee1223/Bank-Network/tree/main)</b>
-- <b>[AWS Security Implementations](https://github.com/Jackiedee1223/Bank-Network/tree/main)</b>
-- <b>[Continuous Delivery of on AWS Cloud](https://github.com/Jackiedee1223/HSNetwork)</b>
-- <b>CloudFormation to Setup Entire Cloud Stack</b>
-- <b>Terraform to Setup Cloud Stack</b>
+- <b>[Re-architecture Web Application on AWS Cloud](https://github.com/Jackiedee1223/CloudDevOps-2)</b>
+- <b>[Continuous Integration of on AWS Cloud](https://github.com/Jackiedee1223/CloudDevOps-3)</b>
+- <b>[Continuous Delivery of on AWS Cloud](https://github.com/Jackiedee1223/CloudDevOps-4)</b>
+- <b>[CloudFormation to Setup Entire Cloud Stack](https://github.com/Jackiedee1223/CloudDevOps-5)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
